@@ -1,4 +1,4 @@
-**[UNMAINTAINED]** This project is no more used by our products and, consequently, is not maintain by our developers anymore. Feel free to fork it or create your own library from it.
+**[IMPORTANT]** Conceal Network DAO took over this dead project and is now an active maintainer. Feel free to contribute to its development.
 
 # react-native-tips
 
