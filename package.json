@@ -1,6 +1,6 @@
 {
   "name": "react-native-guide-tips",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "description": "Helper to show tips when you launch your react-native for the first time",
   "main": "Tips/index.js",
   "scripts": {
