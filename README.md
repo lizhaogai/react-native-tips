@@ -8,7 +8,7 @@ This module is used to guide your new comers throughout your app. Easily and Eff
 
 | Ios | Android |
 |-----|---------|
-|![alt text](https://github.com/myvertigo/react-native-tips/raw/master/doc/react-native-tips.gif "react-native-tips on IOS") | ![alt text](https://github.com/myvertigo/react-native-tips/raw/master/doc/react-native-tips-android.gif "react-native-tips on Android") |
+|![alt text](https://github.com/taeguscromis/react-native-tips/raw/master/doc/react-native-tips.gif "react-native-tips on IOS") | ![alt text](https://github.com/taeguscromis/react-native-tips/raw/master/doc/react-native-tips-android.gif "react-native-tips on Android") |
 
 
 # Update to v0.0.8 - Deprecation warning
@@ -19,10 +19,10 @@ by `onRequestClose` which does the same thing.
 
 ```bash
 # Install via npm
-npm install react-native-tips --save
+npm install react-native-guide-tips --save
 
 # Install via yarn
-yarn add react-native-tips
+yarn add react-native-guide-tips
 ```
 
 
@@ -31,7 +31,7 @@ yarn add react-native-tips
 To use it, just import it directly into your components
 
 ```js
-import Tips from 'react-native-tips'
+import Tips from 'react-native-guide-tips'
 ```
 
 # Example
@@ -41,7 +41,7 @@ The most basic example of this module is to use it like this :
 ```js
 import React from 'react'
 import { View, Button } from 'react-native'
-import Tips from 'react-native-tips'
+import Tips from 'react-native-guide-tips'
 
 
 const MyButton = (props = {}) => (
