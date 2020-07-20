@@ -8,11 +8,11 @@
     "test:dev": "yarn test --watch"
   },
   "bugs": {
-    "url": "https://github.com/frichti/react-native-tips/issues"
+    "url": "https://github.com/taeguscromis/react-native-tips/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/frichti/react-native-tips"
+    "url": "https://github.com/taeguscromis/react-native-tips"
   },
   "keywords": [
     "reactnative",
