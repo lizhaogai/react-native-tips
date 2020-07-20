@@ -1,6 +1,6 @@
 {
   "name": "react-native-guide-tips",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "description": "Helper to show tips when you launch your react-native for the first time",
   "main": "Tips/index.js",
   "scripts": {
@@ -48,12 +48,12 @@
   "devDependencies": {
     "@babel/core": "^7.10.5",
     "babel-core": "^6.26.3",
-    "babel-eslint": "^8.2.6",
+    "babel-eslint": "^10.1.0",
     "babel-jest": "^26.1.0",
     "babel-preset-react-native": "^4.0.1",
     "enzyme": "^3.11.0",
-    "eslint": "^4.19.1",
-    "eslint-config-airbnb": "^16.1.0",
+    "eslint": "^7.5.0",
+    "eslint-config-airbnb": "^18.2.0",
     "eslint-plugin-import": "^2.22.0",
     "eslint-plugin-jsx-a11y": "^6.3.1",
     "eslint-plugin-react": "^7.20.3",
@@ -68,13 +68,13 @@
     "react-test-renderer": "^16.13.1"
   },
   "peerDependencies": {
-    "react": "^16.2.0",
-    "react-native": "^0.53.0"
+    "react": "^16.13.1",
+    "react-native": "^0.63.1"
   },
   "dependencies": {
     "prop-types": "^15.7.2",
-    "react-mixin": "^4.0.0",
+    "react-mixin": "^5.0.0",
     "react-timer-mixin": "^0.13.4",
-    "styled-components": "^3.4.10"
+    "styled-components": "^5.1.1"
   }
 }
