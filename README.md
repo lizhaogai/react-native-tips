@@ -1,6 +1,6 @@
 **[IMPORTANT]** Conceal Network DAO took over this dead project and is now an active maintainer. Feel free to contribute to its development.
 
-# react-native-tips
+# react-native-guide-tips
 
 [![Build Status](https://travis-ci.org/frichti/react-native-tips.svg?branch=master)](https://travis-ci.org/frichti/react-native-tips)
 
@@ -93,7 +93,7 @@ You sometimes need to show tips one after another. This module has a helper to e
 ```js
 import React, { PureComponent } from 'react'
 import { View, Button, Text } from 'react-native'
-import Tips from 'react-native-tips'
+import Tips from 'react-native-guide-tips'
 
 
 export default class MyButton extends PureComponent {
