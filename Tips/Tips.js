@@ -460,44 +460,44 @@ Tips.propTypes = {
    * Override the style of your tips
    * @type {Stylesheet}
    */
-  style: ViewPropTypes.style,
+  style: PropTypes.any,
 
   /**
    * Override the style of the container of your tips (used for positionning)
    * @type {Stylesheet}
    */
-  tooltipContainerStyle: ViewPropTypes.style,
+  tooltipContainerStyle: PropTypes.any,
 
   /**
    * Add style to the tooltip arrow
    * @type {Stylesheet}
    */
-  tooltipArrowStyle: ViewPropTypes.style,
+  tooltipArrowStyle: PropTypes.any,
 
   /**
    * Override the style of the Modal Component (react-native)
    * @type {Stylesheet}
    */
-  modalStyle: ViewPropTypes.style,
+  modalStyle: PropTypes.any,
 
   /**
    * Override the style of the content of the Modal (used for positionning
    * the highlight elements and tips)
    * @type {Stylesheet}
    */
-  contentStyle: ViewPropTypes.style,
+  contentStyle: PropTypes.any,
 
   /**
    * Override the style of the container of the children
    * @type {Stylesheet}
    */
-  childrenStyle: ViewPropTypes.style,
+  childrenStyle: PropTypes.any,
 
   /**
    * Override the style of the text inside the Tips
    * @type {Stylesheet}
    */
-  textStyle: Text.propTypes.style,
+  textStyle: PropTypes.any,
 
   /**
    * Add an offset of the Tips in x axis.
